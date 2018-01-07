@@ -1,2 +1,4 @@
 test
 test
+#注意测试环境必须要先测试xiaowang
+http://www.xiaowang.com
